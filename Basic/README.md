@@ -240,7 +240,7 @@
 Σε περίπτωση που κληθεί  μία δημόσια μέθοδος με παράμετρο που δεν πληροί τους παραπάνω κανόνες τότε  ο κώδικας σας να εγείρει ένα IllegalArgumentException. 
 
 
-# [part2.4])(https://github.com/tasos-ana/JAVA/tree/master/Basic/part2.4)
+# [part2.4](https://github.com/tasos-ana/JAVA/tree/master/Basic/part2.4)
 ## Βιβλιοθήκη
 ### [ADTs, overloading, pre/postconditions-invariants, Javadocs, JUnit Tests] 
 
