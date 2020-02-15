@@ -222,7 +222,7 @@
 ## Απλός Πυρήνας για Παιχνίδια Ρόλων (core for Role Playing Games) 
 ### Interfaces, Inheritance, Subclasses, Collaborating Objects
 
-[Read More](https://github.com/tasos-ana/JAVA/blob/master/Basic/2013-2014_hy252_A2.pdf)
+[Read More](https://github.com/tasos-ana/JAVA/blob/master/Basic/part2.pdf)
 
 
 # [part2.3](https://github.com/tasos-ana/JAVA/tree/master/Basic/part2.3)
@@ -263,4 +263,4 @@
 
 Ακολουθούν οι ιδιότητες και τα χαρακτηριστικά των ΑΤΔ που καλείστε να σχεδιάσετε και να υλοποιήσετε: 
 
-[Read More](https://github.com/tasos-ana/JAVA/blob/master/Basic/2013-2014_hy252_A2.pdf)
+[Read More](https://github.com/tasos-ana/JAVA/blob/master/Basic/part2.pdf)
